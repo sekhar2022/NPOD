@@ -40,6 +40,9 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="MWo-UH-eCz"/>
                                 </constraints>
+                                <date key="minimumDate" timeIntervalSinceReferenceDate="-31642200">
+                                    <!--1999-12-31 18:30:00 +0000-->
+                                </date>
                             </datePicker>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xk9-mZ-UJL">
                                 <rect key="frame" x="20.5" y="166" width="373" height="439"/>
@@ -224,7 +227,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="sNT-dp-Leh"/>
+        <segue reference="fnw-oz-bXw"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="heart" catalog="system" width="128" height="109"/>
