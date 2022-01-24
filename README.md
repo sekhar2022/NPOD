@@ -21,8 +21,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 Description:
-iOS Application which uses API provided by NASA to show Picture of the day for selected date
+This is an iOS Application project 'Nasa Picture of the day' for selected date which uses API provided by NASA.
 Minimum date - Jan 1st 2000
 Maximum date - Today/Yesterday
