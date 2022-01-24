@@ -23,5 +23,7 @@ SOFTWARE.
 
 Description:
 This is an iOS Application project 'Nasa Picture of the day' for selected date which uses API provided by NASA.
+
 Minimum date - Jan 1st 2000
+
 Maximum date - Today/Yesterday
